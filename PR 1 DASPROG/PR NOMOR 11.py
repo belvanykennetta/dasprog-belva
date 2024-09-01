@@ -11,4 +11,4 @@ side2 = 2 * M * N
 #Find side 3
 hypotenuse = M**2 + N**2
 
-print('The Phytagorean triple that generated are side 1 :', side1, 'side 2 :', side2, 'side 3 :', side3)
+print('The Phytagorean triple that generated are side 1 :', side1, 'side 2 :', side2, 'hypotenuse :', hypotenuse)
