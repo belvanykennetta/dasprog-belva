@@ -1,4 +1,4 @@
-#how long of the power failure
+#How long of the power failure
 duration = float(input('Enter duration: '))
 
 #temperature
